@@ -1,4 +1,4 @@
-# faker--json
+# faker--json with python
 creates faker data of a object person, which includes name, age and city. Its adds this data into a json file
 
 libraries and packages used: -matplotlib.pyplot -numpy -faker -random -json
